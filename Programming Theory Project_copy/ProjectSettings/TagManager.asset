@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Big Coin
+  - Health Powerup
+  - Powerup
+  - Enemy
+  - Checkpoint
+  - TriggerVolume
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Obstacle
+  - Ground
+  - Platform
+  - 
+  - Projectile
+  - 
+  - Checkpoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3465163669
+    locked: 0
+  - name: Clouds
+    uniqueID: 1863757993
+    locked: 0
+  - name: Mountain
+    uniqueID: 3389678903
+    locked: 0
+  - name: Trees
+    uniqueID: 635117193
+    locked: 0

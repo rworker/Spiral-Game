@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 8acb518b8aed9b242ab18803b446aa9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8383647611507022122
+    second: Concrete5_0
+  - first:
+      213: -3579232732137640382
+    second: Concrete5_1
+  - first:
+      213: -3381455501006341311
+    second: Concrete5_2
+  - first:
+      213: 9076292524462681210
+    second: Concrete5_3
+  - first:
+      213: 9084368904105592851
+    second: Concrete5_4
+  - first:
+      213: 5304598625388287788
+    second: Concrete5_5
+  - first:
+      213: 5409891705876637446
+    second: Concrete5_6
+  - first:
+      213: -4671703471210751765
+    second: Concrete5_7
+  - first:
+      213: 691190000697802818
+    second: Concrete5_8
+  - first:
+      213: 135150578301302828
+    second: Concrete5_9
+  - first:
+      213: -6546030645098255609
+    second: Concrete5_10
+  - first:
+      213: -5233710947081677964
+    second: Concrete5_11
+  - first:
+      213: 6649891636553386169
+    second: Concrete5_12
+  - first:
+      213: 4503420691825631022
+    second: Concrete5_13
+  - first:
+      213: 3298513829325535157
+    second: Concrete5_14
+  - first:
+      213: 7278786581851530536
+    second: Concrete5_15
+  - first:
+      213: 7447390493808034061
+    second: Concrete5_16
+  - first:
+      213: 3279482649132107880
+    second: Concrete5_17
+  - first:
+      213: -3158188634884827290
+    second: Concrete5_18
+  - first:
+      213: 5377304655678111566
+    second: Concrete5_19
+  - first:
+      213: 1749519391885024982
+    second: Concrete5_20
+  - first:
+      213: 8705900456199661710
+    second: Concrete5_21
+  - first:
+      213: 4076446827420021444
+    second: Concrete5_22
+  - first:
+      213: 2162382398447070397
+    second: Concrete5_23
+  - first:
+      213: -1189373706443409977
+    second: Concrete5_24
+  - first:
+      213: 2718294351098000197
+    second: Concrete5_25
+  - first:
+      213: 4200561882428007967
+    second: Concrete5_26
+  - first:
+      213: -8821636757720021361
+    second: Concrete5_27
+  - first:
+      213: -7953614726584701775
+    second: Concrete5_28
+  - first:
+      213: 5449056490592037765
+    second: Concrete5_29
+  - first:
+      213: -5607813720140836159
+    second: Concrete5_30
+  - first:
+      213: -992642297042017153
+    second: Concrete5_31
+  - first:
+      213: -872907694127599356
+    second: Concrete5_32
+  - first:
+      213: 5693024236329241099
+    second: Concrete5_33
+  - first:
+      213: 8704553851718770935
+    second: Concrete5_34
+  - first:
+      213: -3933787720786932875
+    second: Concrete5_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Concrete5_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2470
+        width: 369
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a299ded8513b85470800000000000000
+      internalID: 8383647611507022122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2588
+        width: 305
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2c703bc2045ec0800000000000000
+      internalID: -3579232732137640382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2588
+        width: 335
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bf9b63328a211d0800000000000000
+      internalID: -3381455501006341311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_3
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 2524
+        width: 276
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca12676f775fd70800000000000000
+      internalID: 9076292524462681210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_4
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2628
+        width: 390
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31881d12369221e70800000000000000
+      internalID: 9084368904105592851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_5
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 2588
+        width: 297
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c275b464858bd9940800000000000000
+      internalID: 5304598625388287788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_6
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2599
+        width: 1301
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607eb1af7dbc31b40800000000000000
+      internalID: 5409891705876637446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_7
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2611
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81686d176ca2fb0800000000000000
+      internalID: -4671703471210751765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1844
+        width: 360
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24005efb4a9979900800000000000000
+      internalID: 691190000697802818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2284
+        width: 292
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2876d22cb620e100800000000000000
+      internalID: 135150578301302828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2230
+        width: 304
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be8168fc3d725a0800000000000000
+      internalID: -6546030645098255609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_11
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2009
+        width: 111
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739f1e7f9f1e57b0800000000000000
+      internalID: -5233710947081677964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_12
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2009
+        width: 174
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b80b97f539294c50800000000000000
+      internalID: 6649891636553386169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_13
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1996
+        width: 155
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f1962524d5f7e30800000000000000
+      internalID: 4503420691825631022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_14
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2330
+        width: 445
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b779abf9dca6cd20800000000000000
+      internalID: 3298513829325535157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_15
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 2192
+        width: 1280
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e32fd4d1730560800000000000000
+      internalID: 7278786581851530536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_16
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1967
+        width: 182
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018c0732327a5760800000000000000
+      internalID: 7447390493808034061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_17
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1990
+        width: 215
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868839c0810138d20800000000000000
+      internalID: 3279482649132107880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_18
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2157
+        width: 407
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667930c5b2cdb24d0800000000000000
+      internalID: -3158188634884827290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_19
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1996
+        width: 376
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f7fba181600aa40800000000000000
+      internalID: 5377304655678111566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_20
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1843
+        width: 1248
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded6f81e9a874810800000000000000
+      internalID: 1749519391885024982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1289
+        width: 369
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8821bdc65291d870800000000000000
+      internalID: 8705900456199661710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1304
+        width: 440
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c27326aac2729830800000000000000
+      internalID: 4076446827420021444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_23
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1304
+        width: 517
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcaef7a553520e10800000000000000
+      internalID: 2162382398447070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_24
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1304
+        width: 430
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c530426aee7e7fe0800000000000000
+      internalID: -1189373706443409977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_25
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 264
+        width: 249
+        height: 1378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543b5286f4259b520800000000000000
+      internalID: 2718294351098000197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_26
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 284
+        width: 292
+        height: 1358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16ea2bc6c46b4a30800000000000000
+      internalID: 4200561882428007967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_27
+      rect:
+        serializedVersion: 2
+        x: 3278
+        y: 264
+        width: 194
+        height: 1317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c19e9b10439580800000000000000
+      internalID: -8821636757720021361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 702
+        width: 406
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6a95db851f9190800000000000000
+      internalID: -7953614726584701775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_29
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 695
+        width: 449
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b66c20200fe9b40800000000000000
+      internalID: 5449056490592037765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_30
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 695
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2917c022b0d22b0800000000000000
+      internalID: -5607813720140836159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_31
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 695
+        width: 445
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7468cf071d6932f0800000000000000
+      internalID: -992642297042017153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 159
+        width: 317
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401b1d9b31fc2e3f0800000000000000
+      internalID: -872907694127599356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_33
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 151
+        width: 433
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a0818416fa10f40800000000000000
+      internalID: 5693024236329241099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_34
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 137
+        width: 517
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a4f30c99ccc870800000000000000
+      internalID: 8704553851718770935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Concrete5_35
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 159
+        width: 440
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b83b8f8e06869c0800000000000000
+      internalID: -3933787720786932875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

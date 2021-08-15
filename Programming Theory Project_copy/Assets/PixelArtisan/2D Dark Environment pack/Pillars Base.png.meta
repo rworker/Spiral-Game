@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 6c4c5a5c09165c54b88da4179a772271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 450593988409430079
+    second: Pillars Base_0
+  - first:
+      213: -1287173983317244881
+    second: Pillars Base_1
+  - first:
+      213: 4630156316629424231
+    second: Pillars Base_2
+  - first:
+      213: -8798540280087102829
+    second: Pillars Base_3
+  - first:
+      213: 2659861426440292309
+    second: Pillars Base_4
+  - first:
+      213: 5247184919831044792
+    second: Pillars Base_5
+  - first:
+      213: -7485550941056105899
+    second: Pillars Base_6
+  - first:
+      213: 3969642379696404185
+    second: Pillars Base_7
+  - first:
+      213: 1492046571358982480
+    second: Pillars Base_8
+  - first:
+      213: -5105214704937633774
+    second: Pillars Base_9
+  - first:
+      213: 8664525365968196285
+    second: Pillars Base_10
+  - first:
+      213: 5789028510203634274
+    second: Pillars Base_11
+  - first:
+      213: 8376511066735876256
+    second: Pillars Base_12
+  - first:
+      213: -1984737881270610779
+    second: Pillars Base_13
+  - first:
+      213: -6770095367756745906
+    second: Pillars Base_14
+  - first:
+      213: 1524963626567214467
+    second: Pillars Base_15
+  - first:
+      213: -6025895696017161835
+    second: Pillars Base_16
+  - first:
+      213: -8395410810477352377
+    second: Pillars Base_17
+  - first:
+      213: -5454240032297529901
+    second: Pillars Base_18
+  - first:
+      213: -4823895671452296330
+    second: Pillars Base_19
+  - first:
+      213: 3768267359929467341
+    second: Pillars Base_20
+  - first:
+      213: -6940104193902099890
+    second: Pillars Base_21
+  - first:
+      213: -8672222594812279053
+    second: Pillars Base_22
+  - first:
+      213: -7269426799364986853
+    second: Pillars Base_23
+  - first:
+      213: -7014384394515307037
+    second: Pillars Base_24
+  - first:
+      213: 9133841784570820588
+    second: Pillars Base_25
+  - first:
+      213: -212770687010889352
+    second: Pillars Base_26
+  - first:
+      213: 7983741036203397719
+    second: Pillars Base_27
+  - first:
+      213: 8169886489763928699
+    second: Pillars Base_28
+  - first:
+      213: 8565034597856591681
+    second: Pillars Base_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillars Base_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1136
+        width: 327
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30121958d4d04600800000000000000
+      internalID: 450593988409430079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1136
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244048f41a032ee0800000000000000
+      internalID: -1287173983317244881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_2
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1136
+        width: 327
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685a3b63ae914040800000000000000
+      internalID: 4630156316629424231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_3
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1136
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a317f5b3e45e580800000000000000
+      internalID: -8798540280087102829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_4
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1122
+        width: 359
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7ccb2ffd9b9e420800000000000000
+      internalID: 2659861426440292309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_5
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1123
+        width: 357
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2e05142eeb1d840800000000000000
+      internalID: 5247184919831044792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 928
+        width: 306
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552824a441bfd1890800000000000000
+      internalID: -7485550941056105899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_7
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 928
+        width: 306
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6f32756b0071730800000000000000
+      internalID: 3969642379696404185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 928
+        width: 306
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05111329370d4b410800000000000000
+      internalID: 1492046571358982480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_9
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 936
+        width: 305
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21877124642a629b0800000000000000
+      internalID: -5105214704937633774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_10
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 918
+        width: 337
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db255e9e9e39e3870800000000000000
+      internalID: 8664525365968196285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_11
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 926
+        width: 339
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262eb4922c2c65050800000000000000
+      internalID: 5789028510203634274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 714
+        width: 338
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89bed3f685f3470800000000000000
+      internalID: 8376511066735876256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 714
+        width: 337
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a49a9e996bc474e0800000000000000
+      internalID: -1984737881270610779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_14
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 714
+        width: 337
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43775de12acb02a0800000000000000
+      internalID: -6770095367756745906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_15
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 724
+        width: 335
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3852ee8b652c92510800000000000000
+      internalID: 1524963626567214467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_16
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 704
+        width: 370
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59187518ac7bf5ca0800000000000000
+      internalID: -6025895696017161835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_17
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 714
+        width: 366
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae50249528d7b80800000000000000
+      internalID: -8395410810477352377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_18
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 453
+        width: 322
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc033a695ae44b0800000000000000
+      internalID: -5454240032297529901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 454
+        width: 323
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9a85e1741e0db0800000000000000
+      internalID: -4823895671452296330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_20
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 453
+        width: 320
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18b4fd2339b4430800000000000000
+      internalID: 3768267359929467341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_21
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 456
+        width: 319
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424442810ccfaf90800000000000000
+      internalID: -6940104193902099890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_22
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 447
+        width: 353
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f609175f7316a780800000000000000
+      internalID: -8672222594812279053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_23
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 449
+        width: 352
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18252f47decd1b90800000000000000
+      internalID: -7269426799364986853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 155
+        width: 353
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e52fd69e86e7ae90800000000000000
+      internalID: -7014384394515307037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 155
+        width: 352
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b6fbb5bce1ce70800000000000000
+      internalID: 9133841784570820588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_26
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 156
+        width: 354
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a91eff261c0df0800000000000000
+      internalID: -212770687010889352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_27
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 159
+        width: 354
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752dc993c22fbce60800000000000000
+      internalID: 7983741036203397719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_28
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 143
+        width: 387
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a54adf974416170800000000000000
+      internalID: 8169886489763928699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Base_29
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 144
+        width: 385
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f3c26569d1dd670800000000000000
+      internalID: 8565034597856591681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

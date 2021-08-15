@@ -1,0 +1,995 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 32684 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/rylan/Documents/GitHub/Programming-Theory-Repo/Programming Theory Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51338
+Successfully changed project path to: C:/Users/rylan/Documents/GitHub/Programming-Theory-Repo/Programming Theory Project
+C:/Users/rylan/Documents/GitHub/Programming-Theory-Repo/Programming Theory Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.95 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/rylan/Documents/GitHub/Programming-Theory-Repo/Programming Theory Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001672 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.65 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.526 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1402 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.8 MB.
+System memory in use after: 87.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1864.
+Total: 1.509400 ms (FindLiveObjects: 0.152600 ms CreateObjectMapping: 0.027600 ms MarkObjects: 1.255200 ms  DeleteObjects: 0.073400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Horror Sfx/Wav/Stab_Knife_02.wav
+  artifactKey: Guid(97cb1199f33074ead900715f9db9c6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Stab_Knife_02.wav using Guid(97cb1199f33074ead900715f9db9c6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f78010ef56a9c8d0f6c6e78b736a9142') in 0.082619 seconds
+  Import took 0.085054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_02.wav
+  artifactKey: Guid(b46db3d5a603e4b7093e9e6316970f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_02.wav using Guid(b46db3d5a603e4b7093e9e6316970f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd177a25fc786e5383c6d24595e4e134d') in 0.010981 seconds
+  Import took 0.013232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_04.wav
+  artifactKey: Guid(c0dcfc26482d341c68de7a0c0f36fce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_04.wav using Guid(c0dcfc26482d341c68de7a0c0f36fce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c833e61afe8c6b104232230fc5929b63') in 0.011076 seconds
+  Import took 0.013371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Horror Sfx/Wav/Blood_Dripping_Loop_02.wav
+  artifactKey: Guid(d8aab60130d5a4ebda402b853029555d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Blood_Dripping_Loop_02.wav using Guid(d8aab60130d5a4ebda402b853029555d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3561cacc156125d0ad65e8f552e383a') in 0.010971 seconds
+  Import took 0.013165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_03.wav
+  artifactKey: Guid(930a5efc5ad104faea0754f254649c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_03.wav using Guid(930a5efc5ad104faea0754f254649c65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd402d2cba8c62a8a7763a91b2d829be3') in 0.012911 seconds
+  Import took 0.014848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Horror Sfx/Wav/Scream_Male_04.wav
+  artifactKey: Guid(eb10d7ac4ae2342218e5ea6a5a0668e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Scream_Male_04.wav using Guid(eb10d7ac4ae2342218e5ea6a5a0668e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d4962ae66eede8055bf965bce50602a') in 0.010471 seconds
+  Import took 0.012447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Horror Sfx/Wav/Ambience_MonstersBelly_00.wav
+  artifactKey: Guid(8d685a787287c4cefab22754cab488ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Ambience_MonstersBelly_00.wav using Guid(8d685a787287c4cefab22754cab488ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad22981135ac46342ac2124c5092224') in 0.010821 seconds
+  Import took 0.012607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Horror Sfx/Wav/Blood_Dripping_Loop_00.wav
+  artifactKey: Guid(14e5125190eab4ac58dc449b7ddb5be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Blood_Dripping_Loop_00.wav using Guid(14e5125190eab4ac58dc449b7ddb5be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b711b4493e141eb23fd92745ef3a1fd1') in 0.009961 seconds
+  Import took 0.012218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Horror Sfx/Wav/Jingle_Lose_00.wav
+  artifactKey: Guid(5cc8090dd01b44c99b331341d107069e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Jingle_Lose_00.wav using Guid(5cc8090dd01b44c99b331341d107069e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f643e63d1c5259b6d722f8fba2f0ed6') in 0.012072 seconds
+  Import took 0.013950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Horror Sfx/Wav/Laugh_Evil_01.wav
+  artifactKey: Guid(1f48ce2284ebf46e1b91ffa2f7929927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Laugh_Evil_01.wav using Guid(1f48ce2284ebf46e1b91ffa2f7929927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e9fe380faec2c8864492a4aa27230a') in 0.010202 seconds
+  Import took 0.012051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Wav/Gate_Open_00.wav
+  artifactKey: Guid(98c5a33c36be340cc889f1af616cb40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Gate_Open_00.wav using Guid(98c5a33c36be340cc889f1af616cb40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a331604e75760d56bd145c7f5fe3f7d9') in 0.006674 seconds
+  Import took 0.008462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Horror Sfx/Wav/Bonecrack_01.wav
+  artifactKey: Guid(fea60389b834443f28cfd0cc3b732f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Bonecrack_01.wav using Guid(fea60389b834443f28cfd0cc3b732f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca263f0dce06caa6629d77326ab0b41') in 0.009340 seconds
+  Import took 0.011490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Horror Sfx/Wav/Ambience_Hell_00.wav
+  artifactKey: Guid(2c9cfb2c9889844ac889f2ad14683d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Ambience_Hell_00.wav using Guid(2c9cfb2c9889844ac889f2ad14683d0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a310e7875e9f65f2a796c695c0d1d37') in 0.010365 seconds
+  Import took 0.012207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_05.wav
+  artifactKey: Guid(129c752ab84404b57bb1689bb3dbeb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_05.wav using Guid(129c752ab84404b57bb1689bb3dbeb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c2aeffe7f4cfeca67f861d3ad529b33') in 0.010977 seconds
+  Import took 0.012868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Horror Sfx/Wav/Zombie_00.wav
+  artifactKey: Guid(3062ac539596e43b695ae2bd63a73768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Zombie_00.wav using Guid(3062ac539596e43b695ae2bd63a73768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabc19c90c54ef5e5c1b43ea965c263a') in 0.010427 seconds
+  Import took 0.012393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Wav/Laugh_Evil_00.wav
+  artifactKey: Guid(02d177859e7494d8daf6fb8a44059f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Laugh_Evil_00.wav using Guid(02d177859e7494d8daf6fb8a44059f14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a74f6b2b1bcca26b3c50b274afd9662') in 0.006888 seconds
+  Import took 0.008977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_06.wav
+  artifactKey: Guid(accd801219b294d4690061604055c453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_06.wav using Guid(accd801219b294d4690061604055c453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a10d676483dc50f7549bcac4f3163466') in 0.009953 seconds
+  Import took 0.012149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Horror Sfx/Wav/Scream_Male_03.wav
+  artifactKey: Guid(9f9d63035e2bd48e7aea92e158ba9d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Scream_Male_03.wav using Guid(9f9d63035e2bd48e7aea92e158ba9d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd122940c58f0b91d69470c711e8931bd') in 0.009875 seconds
+  Import took 0.012222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Horror Sfx/Wav/Laugh_Evil_02.wav
+  artifactKey: Guid(bbd4067866a8945fb9d465a7e89484ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Laugh_Evil_02.wav using Guid(bbd4067866a8945fb9d465a7e89484ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b1ecc7c8648a4b48a50115538a7184') in 0.010246 seconds
+  Import took 0.012418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Horror Sfx/Wav/Bonecrack_03.wav
+  artifactKey: Guid(d08a2f7d604a04fc19d12b966f07c687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Bonecrack_03.wav using Guid(d08a2f7d604a04fc19d12b966f07c687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdee82386b3e5839b8168491f22f1eb3') in 0.006785 seconds
+  Import took 0.008717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Wav/Ambience_MurderofCrows_00.wav
+  artifactKey: Guid(c468e07ff90ee4f31afa9cb735588880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Ambience_MurderofCrows_00.wav using Guid(c468e07ff90ee4f31afa9cb735588880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323d660832bf1cdb42955a38a126b676') in 0.010541 seconds
+  Import took 0.012654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Horror Sfx/Wav/Blood_Dripping_Loop_01.wav
+  artifactKey: Guid(b4acfa79cf7544f5b850400fe65d9cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Blood_Dripping_Loop_01.wav using Guid(b4acfa79cf7544f5b850400fe65d9cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf576ff6d884df1a1b7e536c850ac18') in 0.009999 seconds
+  Import took 0.012118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_01.wav
+  artifactKey: Guid(b53223d7e944741748f65d8f89550ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_01.wav using Guid(b53223d7e944741748f65d8f89550ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59826a089b577336634fa0ea431c61bb') in 0.010492 seconds
+  Import took 0.012594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Horror Sfx/Wav/Bonecrack_00.wav
+  artifactKey: Guid(c4e29105e63a84044bf2daacd4c05edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Bonecrack_00.wav using Guid(c4e29105e63a84044bf2daacd4c05edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ca043168752a446fe3dc268a62f4d70') in 0.009294 seconds
+  Import took 0.011575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Horror Sfx/Wav/Ambience_Hell_01.wav
+  artifactKey: Guid(b6ea6b3768acd4b9fb7cdc458f14c086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Ambience_Hell_01.wav using Guid(b6ea6b3768acd4b9fb7cdc458f14c086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a10894c15d7ed9e6c01e5aeea18c70a') in 0.010561 seconds
+  Import took 0.012419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Horror Sfx/Wav/Scream_Male_00.wav
+  artifactKey: Guid(7ad53bbae297c45bfaa60fc6648f22bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Scream_Male_00.wav using Guid(7ad53bbae297c45bfaa60fc6648f22bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1575cd80c9e85670771692cc6b6a4c42') in 0.011025 seconds
+  Import took 0.013138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Horror Sfx/Wav/Jingle_Achievement_00.wav
+  artifactKey: Guid(4f76fbf4e2f844cea824015a2aecae9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Jingle_Achievement_00.wav using Guid(4f76fbf4e2f844cea824015a2aecae9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37799729e15ae9d0857744eec12fb45') in 0.010071 seconds
+  Import took 0.012148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Horror Sfx/Wav/Monster_00.wav
+  artifactKey: Guid(e4f6c023eb7e140e4b9f376be5f218d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Monster_00.wav using Guid(e4f6c023eb7e140e4b9f376be5f218d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c92c4321f9035962ab7611609b49d695') in 0.009633 seconds
+  Import took 0.011746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Wav/Scream_Male_02.wav
+  artifactKey: Guid(d3b7197c3c2da48d28b27f3e45b6c770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Scream_Male_02.wav using Guid(d3b7197c3c2da48d28b27f3e45b6c770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db5b3c20d0c6e87b37a8d3183b7d24fe') in 0.011468 seconds
+  Import took 0.013455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Horror Sfx/Wav/Scream_Male_01.wav
+  artifactKey: Guid(39b029f2834c345b8a225999cdccf6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Scream_Male_01.wav using Guid(39b029f2834c345b8a225999cdccf6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e56daea67956ebc39bbdc5073045238') in 0.010117 seconds
+  Import took 0.011991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Horror Sfx/Wav/Stab_Knife_01.wav
+  artifactKey: Guid(2025a889b1a4446a5991c081b7dfae5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Stab_Knife_01.wav using Guid(2025a889b1a4446a5991c081b7dfae5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '487f171b688fcdec08f9af04fc7e3f64') in 0.010692 seconds
+  Import took 0.012639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Horror Sfx/Wav/Zombie_01.wav
+  artifactKey: Guid(a3580a1ee22584351953b4e55b422139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Zombie_01.wav using Guid(a3580a1ee22584351953b4e55b422139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dfb1fa09f6f23f5f100e4bc3d875e0') in 0.010294 seconds
+  Import took 0.012396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Horror Sfx/Wav/Evil_Machine_Loop_00.wav
+  artifactKey: Guid(3e041024ef9c34434a680fd2a8ee389a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Evil_Machine_Loop_00.wav using Guid(3e041024ef9c34434a680fd2a8ee389a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ba697f967d3f490625cbd7763f5b8e') in 0.010712 seconds
+  Import took 0.012848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Horror Sfx/Wav/Zombie_03.wav
+  artifactKey: Guid(21f7381b3f27145af9623e46bc38567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Zombie_03.wav using Guid(21f7381b3f27145af9623e46bc38567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa20114cbb1f0d4779281092b657bc4e') in 0.010176 seconds
+  Import took 0.012469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Horror Sfx/Wav/Jingle_Win_00.wav
+  artifactKey: Guid(b466da011d88a437681ed6b4371bfcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Jingle_Win_00.wav using Guid(b466da011d88a437681ed6b4371bfcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1854f718d2769fd1d11ae39c7f7bc268') in 0.014275 seconds
+  Import took 0.016522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Horror Sfx/Wav/Ambience_Hell_02.wav
+  artifactKey: Guid(eb28914cf26e04445a6675485f95e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Ambience_Hell_02.wav using Guid(eb28914cf26e04445a6675485f95e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc0342d2335cc6762b2320de92d06a57') in 0.007366 seconds
+  Import took 0.009471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Horror Sfx/Wav/Zombie_02.wav
+  artifactKey: Guid(fb1c8eabaae694474b63b92cf5c7f11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Zombie_02.wav using Guid(fb1c8eabaae694474b63b92cf5c7f11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6d3fff3371bab58fef6a372d21cd9a') in 0.010254 seconds
+  Import took 0.012110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Horror Sfx/Wav/Zombie_04.wav
+  artifactKey: Guid(6f3bc8dedbdfc43c6936b119abd9a43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Zombie_04.wav using Guid(6f3bc8dedbdfc43c6936b119abd9a43a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0780d78dd7ee701cd77a60de7683fcb') in 0.010490 seconds
+  Import took 0.012792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Horror Sfx/Wav/Bonecrack_02.wav
+  artifactKey: Guid(810f1dddbd4e74cbd8e42028d88c926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Bonecrack_02.wav using Guid(810f1dddbd4e74cbd8e42028d88c926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c8d69415fa7bc63c1bc25bb9d8bde0') in 0.009821 seconds
+  Import took 0.011686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Horror Sfx/Wav/Stab_Knife_00.wav
+  artifactKey: Guid(bbef9d0b0ac13476bbaca323ca351d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Wav/Stab_Knife_00.wav using Guid(bbef9d0b0ac13476bbaca323ca351d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334e0d0bee9e7ad5650a164dcaba4732') in 0.010012 seconds
+  Import took 0.011869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.677652 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_bell.wav
+  artifactKey: Guid(f6dbb0ca03157fc468a0e05ae6c7f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_bell.wav using Guid(f6dbb0ca03157fc468a0e05ae6c7f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b7f05c8338a78008f21f1d800f0700') in 0.011533 seconds
+  Import took 0.014109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Rumble.wav
+  artifactKey: Guid(e93683c9c0a995d48b3f20927db0ac5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Rumble.wav using Guid(e93683c9c0a995d48b3f20927db0ac5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd042426ab9a3f2b412738dd63cc4ad2a') in 0.010316 seconds
+  Import took 0.012404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_underwater.wav
+  artifactKey: Guid(8b3c2e75b5d9f294185b63398af215d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_underwater.wav using Guid(8b3c2e75b5d9f294185b63398af215d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa30ecb844590a9dbfc10e220211d12') in 0.006925 seconds
+  Import took 0.009060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_scary.wav
+  artifactKey: Guid(93abc65fb0a7d9a47bb2f33a425869bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_scary.wav using Guid(93abc65fb0a7d9a47bb2f33a425869bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d38a0940788b2f415985613280f9de2') in 0.010403 seconds
+  Import took 0.012423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Deep_space_1.wav
+  artifactKey: Guid(ab63369db59adbf46b2761daeeebe63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Deep_space_1.wav using Guid(ab63369db59adbf46b2761daeeebe63c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49bfa08b505c1f38ccabe25cc47a24d2') in 0.010100 seconds
+  Import took 0.012126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Deep_space_2.wav
+  artifactKey: Guid(85d9ce10089b6b44fa191f403fc494c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Deep_space_2.wav using Guid(85d9ce10089b6b44fa191f403fc494c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b599438dbbf2d81ff05c178295c3a532') in 0.010124 seconds
+  Import took 0.012195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_darkroom.wav
+  artifactKey: Guid(ab8842b42fcaba04193bd8bc50c78cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_darkroom.wav using Guid(ab8842b42fcaba04193bd8bc50c78cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35df55c6cc634687dc6bace4322cccc4') in 0.009442 seconds
+  Import took 0.011458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Deep_space_3.wav
+  artifactKey: Guid(46bb97a9f3c5f5b4fa47bea4a1f74b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Deep_space_3.wav using Guid(46bb97a9f3c5f5b4fa47bea4a1f74b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b191113163d1f303dce42adbd6982d') in 0.010189 seconds
+  Import took 0.012486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_bell.wav
+  artifactKey: Guid(f6dbb0ca03157fc468a0e05ae6c7f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_bell.wav using Guid(f6dbb0ca03157fc468a0e05ae6c7f510) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b7f05c8338a78008f21f1d800f0700') in 0.005176 seconds
+  Import took 0.006823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Deep_impacts_stress.wav
+  artifactKey: Guid(64ed54603ea4bdc4c930044de83bdd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Deep_impacts_stress.wav using Guid(64ed54603ea4bdc4c930044de83bdd69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20146c5c27282254289c8b7cae06c376') in 0.010108 seconds
+  Import took 0.012201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Run_2.wav
+  artifactKey: Guid(10546d9649879d14e8277d84c34d122e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Run_2.wav using Guid(10546d9649879d14e8277d84c34d122e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b27c447141139a6ef940492c41b91094') in 0.010486 seconds
+  Import took 0.012307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Run_1.wav
+  artifactKey: Guid(1848e5c0f65bc1542a32b7b6c41f30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Run_1.wav using Guid(1848e5c0f65bc1542a32b7b6c41f30a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8272d64e1fc5a55d976c2c3f788eb906') in 0.009920 seconds
+  Import took 0.012109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_claustrophobia.wav
+  artifactKey: Guid(d53d6acc1efce1e4296fdd63d421a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_claustrophobia.wav using Guid(d53d6acc1efce1e4296fdd63d421a1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ce20825cb0bbfecd2eb26380a82c78') in 0.010370 seconds
+  Import took 0.012601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Creepy_monster.wav
+  artifactKey: Guid(12d1b38b31809714a9e53e77f79ac789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Creepy_monster.wav using Guid(12d1b38b31809714a9e53e77f79ac789) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89348a6e3fc29012026ab27f62eea1c2') in 0.010320 seconds
+  Import took 0.012506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Run_End.wav
+  artifactKey: Guid(9ffb473a8305d8741a911f9eef94a48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Run_End.wav using Guid(9ffb473a8305d8741a911f9eef94a48c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1296b668076172e9bb47a2e722d68f') in 0.010290 seconds
+  Import took 0.012612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Deep_impacts.wav
+  artifactKey: Guid(ee2ebb4c4ca5fad40bdac20c3eeaae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Deep_impacts.wav using Guid(ee2ebb4c4ca5fad40bdac20c3eeaae1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af8b6b511b8ddc35fe9bc63084ee005') in 0.009787 seconds
+  Import took 0.011681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Horror Elements/Ambient/Amb_Burn.wav
+  artifactKey: Guid(107fd7e0b0bf76b47803afb29353f3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Elements/Ambient/Amb_Burn.wav using Guid(107fd7e0b0bf76b47803afb29353f3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '885e18d26715423820f91518930813b9') in 0.010285 seconds
+  Import took 0.012257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.039120 seconds.
+  path: Assets/Horror Sfx/Mp3/1.mp3
+  artifactKey: Guid(57973d0c6c5fa4440a046e4c95693caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/1.mp3 using Guid(57973d0c6c5fa4440a046e4c95693caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8424eb809373cfda6f9fd21670f98015') in 0.035461 seconds
+  Import took 0.037724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Horror Sfx/Mp3/Gate_Open_00.mp3
+  artifactKey: Guid(310560a97665a4abb83ef914655c8711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Gate_Open_00.mp3 using Guid(310560a97665a4abb83ef914655c8711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10fdc708e36fee6ac50f19620907afef') in 0.020874 seconds
+  Import took 0.022978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Horror Sfx/Mp3/Laugh_Evil_02.mp3
+  artifactKey: Guid(5e744aa7d9edb4846b941c6d49629c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Laugh_Evil_02.mp3 using Guid(5e744aa7d9edb4846b941c6d49629c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17f571ef42ed4fc0dcee4e532075a5e') in 0.011981 seconds
+  Import took 0.013957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Horror Sfx/Mp3/Jingle_Lose_00.mp3
+  artifactKey: Guid(b4ca459c38f1a44b4bd8b479beee0bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Jingle_Lose_00.mp3 using Guid(b4ca459c38f1a44b4bd8b479beee0bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6732c2f7420b0df8639b68f7010bb4a') in 0.017672 seconds
+  Import took 0.019677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Horror Sfx/Mp3/Zombie_02.mp3
+  artifactKey: Guid(13294ff9ac4314a8cb3e0f6777452308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Zombie_02.mp3 using Guid(13294ff9ac4314a8cb3e0f6777452308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70bfb28c503fe576007ad7f8ce007d27') in 0.013276 seconds
+  Import took 0.015364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_01.mp3
+  artifactKey: Guid(90105c98a76ad4dec9ec990d26140a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_01.mp3 using Guid(90105c98a76ad4dec9ec990d26140a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4656536fb78bdd0f0b9ef76ade5b3ffe') in 0.013984 seconds
+  Import took 0.015965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Horror Sfx/Mp3/Bonecrack_00.mp3
+  artifactKey: Guid(5a41da056cd6147d39093be3f10a2ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bonecrack_00.mp3 using Guid(5a41da056cd6147d39093be3f10a2ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18738fb19a2f85c5bbbad7536da9c2db') in 0.014749 seconds
+  Import took 0.016842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Horror Sfx/Mp3/Scream_Male_01.mp3
+  artifactKey: Guid(4ce5098ab459a44b09f0c10bef718e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Scream_Male_01.mp3 using Guid(4ce5098ab459a44b09f0c10bef718e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa18469b542733bd96428f09261f1e6') in 0.015819 seconds
+  Import took 0.017923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Mp3/Zombie_04.mp3
+  artifactKey: Guid(7914ca56e6570440e8561abd7f336bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Zombie_04.mp3 using Guid(7914ca56e6570440e8561abd7f336bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3519bf36612df59912e5601c1ee78361') in 0.013713 seconds
+  Import took 0.015678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Horror Sfx/Mp3/Bonecrack_03.mp3
+  artifactKey: Guid(538b97415e3f7454a93163f231706630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bonecrack_03.mp3 using Guid(538b97415e3f7454a93163f231706630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d461d08e63b88435841caa7f7e09791') in 0.011007 seconds
+  Import took 0.013079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Horror Sfx/Mp3/Jingle_Achievement_00.mp3
+  artifactKey: Guid(2fe5ebb02a9ad43bd9b96a0bd45fa0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Jingle_Achievement_00.mp3 using Guid(2fe5ebb02a9ad43bd9b96a0bd45fa0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f428bcf4192371a6cba56e76d504c53') in 0.017263 seconds
+  Import took 0.019268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Horror Sfx/Mp3/Blood_Dripping_Loop_00.mp3
+  artifactKey: Guid(326c00b20a71c470a820ce1b6fccc295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Blood_Dripping_Loop_00.mp3 using Guid(326c00b20a71c470a820ce1b6fccc295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8b4ac6b6c9c6b0aa4fb737f95c1779f') in 0.015696 seconds
+  Import took 0.017566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Horror Sfx/Mp3/Jingle_Win_00.mp3
+  artifactKey: Guid(7bc32505978bb42618b82935d8bd8f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Jingle_Win_00.mp3 using Guid(7bc32505978bb42618b82935d8bd8f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb31f2d795bf1065f9167bfa8fbac7ef') in 0.013813 seconds
+  Import took 0.015592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Horror Sfx/Mp3/Scream_Male_03.mp3
+  artifactKey: Guid(80d5b0dced6d747f8b75945c92fd0875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Scream_Male_03.mp3 using Guid(80d5b0dced6d747f8b75945c92fd0875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254ef60cd4f515ba2730c040af1c4193') in 0.013509 seconds
+  Import took 0.015281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Horror Sfx/Mp3/Zombie_03.mp3
+  artifactKey: Guid(7cad94a141f034a61a5f046ad5fb4919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Zombie_03.mp3 using Guid(7cad94a141f034a61a5f046ad5fb4919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0686176d1f467acfab4a65b0dc941fb9') in 0.014646 seconds
+  Import took 0.016957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Horror Sfx/Mp3/6.mp3
+  artifactKey: Guid(e366fb2b4c5ab8642bc4edf06537dde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/6.mp3 using Guid(e366fb2b4c5ab8642bc4edf06537dde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c55b36a56bdb21c201193d86992d6f7') in 0.021582 seconds
+  Import took 0.023660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Horror Sfx/Mp3/Blood_Dripping_Loop_02.mp3
+  artifactKey: Guid(4a71d5eb62dd24fb08cbf788b39d2a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Blood_Dripping_Loop_02.mp3 using Guid(4a71d5eb62dd24fb08cbf788b39d2a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30703834bc0b0c771308322335e1ed95') in 0.011693 seconds
+  Import took 0.013919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Horror Sfx/Mp3/Stab_Knife_02.mp3
+  artifactKey: Guid(b5df16dd84bf34042bfd9ea4b4a0dbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Stab_Knife_02.mp3 using Guid(b5df16dd84bf34042bfd9ea4b4a0dbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c3de4b2334e7dd5f691bcb4bf79c57f') in 0.009444 seconds
+  Import took 0.011268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Horror Sfx/Mp3/Zombie_00.mp3
+  artifactKey: Guid(fe5ce5dcade8442f0afca4bf0ae85bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Zombie_00.mp3 using Guid(fe5ce5dcade8442f0afca4bf0ae85bb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd03aa560c877fc187b923407a24a467a') in 0.016931 seconds
+  Import took 0.018962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_04.mp3
+  artifactKey: Guid(10d4e22bb5d79463a940c7a3b8c13c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_04.mp3 using Guid(10d4e22bb5d79463a940c7a3b8c13c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccc34887ee41e5ca4cdece2320a06a12') in 0.020434 seconds
+  Import took 0.022507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Horror Sfx/Mp3/Ambience_Hell_01.mp3
+  artifactKey: Guid(fb7d3c9dd846c44008878a64cd5e6f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Ambience_Hell_01.mp3 using Guid(fb7d3c9dd846c44008878a64cd5e6f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c385c1a8008bd6dd477b997bf4337395') in 0.009566 seconds
+  Import took 0.011563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Horror Sfx/Mp3/Win sound.wav
+  artifactKey: Guid(d88e427a4bb430b4dbad64c9ab97ab3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Win sound.wav using Guid(d88e427a4bb430b4dbad64c9ab97ab3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d5a1ee7f1072d36bef1d86f9d5a8e6') in 0.010299 seconds
+  Import took 0.012487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_00.mp3
+  artifactKey: Guid(d82ce261446d9493ab9e424042c93303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_00.mp3 using Guid(d82ce261446d9493ab9e424042c93303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90837bebdc74068e8a18566b538e4920') in 0.009523 seconds
+  Import took 0.011543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_05.mp3
+  artifactKey: Guid(579a85b888c2b489a906a2721694262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_05.mp3 using Guid(579a85b888c2b489a906a2721694262d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bea4af245dd13982c8fdd3e722f93e9') in 0.010220 seconds
+  Import took 0.012182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Horror Sfx/Mp3/Bonecrack_01.mp3
+  artifactKey: Guid(207b2ef1191f84ef4b108dd42e852a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bonecrack_01.mp3 using Guid(207b2ef1191f84ef4b108dd42e852a63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae41b79c4cc9d7522a99859120a763fe') in 0.008705 seconds
+  Import took 0.010674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Horror Sfx/Mp3/Zombie_01.mp3
+  artifactKey: Guid(ab0ec6034559748139b9468598b535d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Zombie_01.mp3 using Guid(ab0ec6034559748139b9468598b535d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3532dd19f1b428f0082150d7c4a87f7c') in 0.008573 seconds
+  Import took 0.010545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Horror Sfx/Mp3/Ambience_Hell_02.mp3
+  artifactKey: Guid(a9a8bc4f0726d426fbd4941884d9d4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Ambience_Hell_02.mp3 using Guid(a9a8bc4f0726d426fbd4941884d9d4c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c531d87581ab1148236fba096f9bf0') in 0.009032 seconds
+  Import took 0.011020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Horror Sfx/Mp3/powerUp11.mp3
+  artifactKey: Guid(08a5b5899c0a53c45b842a0df1ec68bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/powerUp11.mp3 using Guid(08a5b5899c0a53c45b842a0df1ec68bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50910a06718ea3276925bb1bb0ab7c2f') in 0.009564 seconds
+  Import took 0.011551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Horror Sfx/Mp3/Evil_Machine_Loop_00.mp3
+  artifactKey: Guid(e97f459dae0524814bfbbf647d4be3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Evil_Machine_Loop_00.mp3 using Guid(e97f459dae0524814bfbbf647d4be3ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cdd4da7b9857b4b498f5f39d17aebe') in 0.010086 seconds
+  Import took 0.012134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Horror Sfx/Mp3/Bonecrack_02.mp3
+  artifactKey: Guid(72059a03e7f8b4ba187d29618fe8f6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bonecrack_02.mp3 using Guid(72059a03e7f8b4ba187d29618fe8f6cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd9e406394e0aa623b76160068057102') in 0.008671 seconds
+  Import took 0.010651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Horror Sfx/Mp3/Blood_Dripping_Loop_01.mp3
+  artifactKey: Guid(e0ed356c8fa7144daad5079e9ee8b1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Blood_Dripping_Loop_01.mp3 using Guid(e0ed356c8fa7144daad5079e9ee8b1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9df357dfefac409be586532697624a0c') in 0.009045 seconds
+  Import took 0.010975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_03.mp3
+  artifactKey: Guid(aa2fb21a989be4e0dbdcca4f63ca8806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_03.mp3 using Guid(aa2fb21a989be4e0dbdcca4f63ca8806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a64086728ed52084f529558d3d1731') in 0.009276 seconds
+  Import took 0.011117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_06.mp3
+  artifactKey: Guid(ef175a26a162e4842a967dcccdb8f6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_06.mp3 using Guid(ef175a26a162e4842a967dcccdb8f6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a24b5375d20a30a83db2ae7908809b1') in 0.009623 seconds
+  Import took 0.011613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Horror Sfx/Mp3/Stab_Knife_01.mp3
+  artifactKey: Guid(0a8027dbceb4d47c4bdad316eb99a9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Stab_Knife_01.mp3 using Guid(0a8027dbceb4d47c4bdad316eb99a9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921a0bc3ba83833842b08091adf56085') in 0.009162 seconds
+  Import took 0.011463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Horror Sfx/Mp3/Scream_Male_00.mp3
+  artifactKey: Guid(d6a32bc0c0d7c4024b6ca850fc327a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Scream_Male_00.mp3 using Guid(d6a32bc0c0d7c4024b6ca850fc327a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5538055a1301727b4ee110fb0d100b6') in 0.009097 seconds
+  Import took 0.011091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Horror Sfx/Mp3/Ambience_MonstersBelly_00.mp3
+  artifactKey: Guid(e2a43fd43fab8412fa71c76ba9e28cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Ambience_MonstersBelly_00.mp3 using Guid(e2a43fd43fab8412fa71c76ba9e28cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abf2cefda17bf1bc4caf662f5502dee0') in 0.009446 seconds
+  Import took 0.011504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Horror Sfx/Mp3/Scream_Male_04.mp3
+  artifactKey: Guid(58788a9bbcf724260b4c8c6da97bef88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Scream_Male_04.mp3 using Guid(58788a9bbcf724260b4c8c6da97bef88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3d3ffcd1dff865f64957bef38d6680') in 0.009244 seconds
+  Import took 0.011232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Horror Sfx/Mp3/Laugh_Evil_01.mp3
+  artifactKey: Guid(43009fc1d5ee04477a64375074aa65c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Laugh_Evil_01.mp3 using Guid(43009fc1d5ee04477a64375074aa65c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ed323c32a56f51e266bd0d3f272baf') in 0.008833 seconds
+  Import took 0.011220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_06.mp3
+  artifactKey: Guid(f3c0eed9efdcc48bf8389a53cb77a070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_06.mp3 using Guid(f3c0eed9efdcc48bf8389a53cb77a070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd4c4a0783937d265ba4ea54dd774c7') in 0.009981 seconds
+  Import took 0.012185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_00.mp3
+  artifactKey: Guid(dd1b6de1e0e434e1eb527b1141477e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_00.mp3 using Guid(dd1b6de1e0e434e1eb527b1141477e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9fe18a282e89fb1285a630d71ce01f1') in 0.010016 seconds
+  Import took 0.012195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_09.mp3
+  artifactKey: Guid(ad67020b39ecf41c4b6b1c8d2280331c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_09.mp3 using Guid(ad67020b39ecf41c4b6b1c8d2280331c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d230c3ce5cb334136b86637c88d38b0') in 0.009654 seconds
+  Import took 0.011738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_02.mp3
+  artifactKey: Guid(9ea867eeedcdb4c1d94e74dd2ed2047d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_02.mp3 using Guid(9ea867eeedcdb4c1d94e74dd2ed2047d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b00fd0d0ba77a61f35345120d8d9eaa8') in 0.009433 seconds
+  Import took 0.011739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_03.mp3
+  artifactKey: Guid(8bc793915866c49a99374d58595cf5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_03.mp3 using Guid(8bc793915866c49a99374d58595cf5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00a36ad7e3fc724cd3a0432c54e81d9d') in 0.010115 seconds
+  Import took 0.012295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_08.mp3
+  artifactKey: Guid(d22ad98cb7d1c456ead72b7606a88bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_08.mp3 using Guid(d22ad98cb7d1c456ead72b7606a88bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53a1a4db654192eba374739381ad61c9') in 0.009630 seconds
+  Import took 0.011761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Horror Sfx/Mp3/Laugh_Evil_00.mp3
+  artifactKey: Guid(00479b649056e420d873147aa56a8993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Laugh_Evil_00.mp3 using Guid(00479b649056e420d873147aa56a8993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49eef212975ac85a605990997c03bef1') in 0.008688 seconds
+  Import took 0.010870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_05.mp3
+  artifactKey: Guid(756782459a7b146daa1ac87d9aa29b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_05.mp3 using Guid(756782459a7b146daa1ac87d9aa29b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ee6a53df0e86e7c2e1f4d5c924826c') in 0.009497 seconds
+  Import took 0.011834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Horror Sfx/Mp3/Ambience_MurderofCrows_00.mp3
+  artifactKey: Guid(3738702bd0b154d069ea0ee9d38d0a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Ambience_MurderofCrows_00.mp3 using Guid(3738702bd0b154d069ea0ee9d38d0a9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d6d3bca509f73691130462dd81e017') in 0.009785 seconds
+  Import took 0.011739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Horror Sfx/Mp3/Scream_Male_02.mp3
+  artifactKey: Guid(6dc9139a5c0e844b7b07a683e532bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Scream_Male_02.mp3 using Guid(6dc9139a5c0e844b7b07a683e532bdf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '829d6e7abacab1fbb4b5be0bb410aafa') in 0.010005 seconds
+  Import took 0.012219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/Horror Sfx/Mp3/Ambience_Hell_00.mp3
+  artifactKey: Guid(092a5004c50db4e0f8bc4d9b334003b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Ambience_Hell_00.mp3 using Guid(092a5004c50db4e0f8bc4d9b334003b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e75d100eb2a7e8751a67a0039d8f5d') in 0.009121 seconds
+  Import took 0.011372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Horror Sfx/Mp3/powerUp10.mp3
+  artifactKey: Guid(1b7e3710a2677604893467355e7729b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/powerUp10.mp3 using Guid(1b7e3710a2677604893467355e7729b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad040a65c4e236b1cb2b20781e346a7') in 0.010211 seconds
+  Import took 0.012383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_07.mp3
+  artifactKey: Guid(c35e0e25b7ed74dd1ab5d33fadded086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_07.mp3 using Guid(c35e0e25b7ed74dd1ab5d33fadded086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5f3d9e2dc9b0f939a7c4fb18827ae7') in 0.009784 seconds
+  Import took 0.011633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Horror Sfx/Mp3/powerUp9.mp3
+  artifactKey: Guid(2d29174c4b832194f886e18ee9cb5745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/powerUp9.mp3 using Guid(2d29174c4b832194f886e18ee9cb5745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb55f7c17b709cf8b61e0988439b894') in 0.009395 seconds
+  Import took 0.011493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Horror Sfx/Mp3/powerUp2.mp3
+  artifactKey: Guid(6c03fbff2ead6254a8a890986f1eb5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/powerUp2.mp3 using Guid(6c03fbff2ead6254a8a890986f1eb5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72aae2d22f8b5d7464030321fc783bf0') in 0.009701 seconds
+  Import took 0.011839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Horror Sfx/Mp3/Monster_02.mp3
+  artifactKey: Guid(5fdb461555f214ae3854e33eaa45ee3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Monster_02.mp3 using Guid(5fdb461555f214ae3854e33eaa45ee3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab7377cd61c90e29e2f452e3e72b1ad') in 0.008917 seconds
+  Import took 0.011068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_04.mp3
+  artifactKey: Guid(57938e546e5f14e1d975fcb3e26e8a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_04.mp3 using Guid(57938e546e5f14e1d975fcb3e26e8a23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88db29254e9c47dea46595a4201bc9d9') in 0.009934 seconds
+  Import took 0.012009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Horror Sfx/Mp3/Stab_Knife_00.mp3
+  artifactKey: Guid(ef370672c9b9c4fbdae838bbd2d7175a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Stab_Knife_00.mp3 using Guid(ef370672c9b9c4fbdae838bbd2d7175a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c346caac537e4cf222cab01fe592caa3') in 0.009361 seconds
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_01.mp3
+  artifactKey: Guid(57ffb69d39db341d8b13793eba150c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Horror Sfx/Mp3/Bloop Drip/Blood_Drip_01.mp3 using Guid(57ffb69d39db341d8b13793eba150c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c13bd0876785422eb5623ea5a877952') in 0.009543 seconds
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.0 MB.
+System memory in use after: 61.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1873.
+Total: 2.053400 ms (FindLiveObjects: 0.173100 ms CreateObjectMapping: 0.035100 ms MarkObjects: 1.796700 ms  DeleteObjects: 0.047700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

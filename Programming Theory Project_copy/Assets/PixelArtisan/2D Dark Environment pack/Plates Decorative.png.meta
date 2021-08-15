@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 471a2c3a9e0b2c44c8e3503b0c1e759d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 810987852686005532
+    second: Plates Decorative_0
+  - first:
+      213: 461530362617960810
+    second: Plates Decorative_1
+  - first:
+      213: 4514248149438039354
+    second: Plates Decorative_2
+  - first:
+      213: 7434558881637846637
+    second: Plates Decorative_3
+  - first:
+      213: 5381918533211281946
+    second: Plates Decorative_4
+  - first:
+      213: 5500152963860912410
+    second: Plates Decorative_5
+  - first:
+      213: -185462833551915310
+    second: Plates Decorative_6
+  - first:
+      213: 3418676316645769329
+    second: Plates Decorative_7
+  - first:
+      213: 5413098103157105849
+    second: Plates Decorative_8
+  - first:
+      213: -877161337855487083
+    second: Plates Decorative_9
+  - first:
+      213: 5555382586196789827
+    second: Plates Decorative_10
+  - first:
+      213: -7398115289111560275
+    second: Plates Decorative_11
+  - first:
+      213: -5185211042552048288
+    second: Plates Decorative_12
+  - first:
+      213: 4720003829624976441
+    second: Plates Decorative_13
+  - first:
+      213: 238330785229953150
+    second: Plates Decorative_14
+  - first:
+      213: 4393262687355198705
+    second: Plates Decorative_15
+  - first:
+      213: -3592570299930533652
+    second: Plates Decorative_16
+  - first:
+      213: 7653683756111949125
+    second: Plates Decorative_17
+  - first:
+      213: 8307064418086602700
+    second: Plates Decorative_18
+  - first:
+      213: -4608342087407208232
+    second: Plates Decorative_19
+  - first:
+      213: 4025887898988794010
+    second: Plates Decorative_20
+  - first:
+      213: -4698840126892111480
+    second: Plates Decorative_21
+  - first:
+      213: -5692302789200767936
+    second: Plates Decorative_22
+  - first:
+      213: 1876783026256294043
+    second: Plates Decorative_23
+  - first:
+      213: 4673260090190026214
+    second: Plates Decorative_24
+  - first:
+      213: -7031843553367823468
+    second: Plates Decorative_25
+  - first:
+      213: 868860625671924118
+    second: Plates Decorative_26
+  - first:
+      213: 8748807659736337739
+    second: Plates Decorative_27
+  - first:
+      213: -2253611460068188865
+    second: Plates Decorative_28
+  - first:
+      213: 6408425800716183286
+    second: Plates Decorative_29
+  - first:
+      213: 5933178899032850494
+    second: Plates Decorative_30
+  - first:
+      213: -7035900305877715054
+    second: Plates Decorative_31
+  - first:
+      213: -3849482744530763789
+    second: Plates Decorative_32
+  - first:
+      213: -9076172417321599117
+    second: Plates Decorative_33
+  - first:
+      213: 5307612329198933467
+    second: Plates Decorative_34
+  - first:
+      213: 5230471303344547068
+    second: Plates Decorative_35
+  - first:
+      213: -9162989247946114741
+    second: Plates Decorative_36
+  - first:
+      213: 1564478279529880566
+    second: Plates Decorative_37
+  - first:
+      213: 645173422585430403
+    second: Plates Decorative_38
+  - first:
+      213: 5431011170403824228
+    second: Plates Decorative_39
+  - first:
+      213: 4183980240300878511
+    second: Plates Decorative_40
+  - first:
+      213: -1561230078566536909
+    second: Plates Decorative_41
+  - first:
+      213: -4674589626190074759
+    second: Plates Decorative_42
+  - first:
+      213: -8615449760786808329
+    second: Plates Decorative_43
+  - first:
+      213: 3760290015487319610
+    second: Plates Decorative_44
+  - first:
+      213: -1352577590539240969
+    second: Plates Decorative_45
+  - first:
+      213: -8340038898980046586
+    second: Plates Decorative_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plates Decorative_0
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1661
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15918cb725314b00800000000000000
+      internalID: 810987852686005532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1661
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6996e46b6fa76600800000000000000
+      internalID: 461530362617960810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1661
+        width: 251
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35083f36c4d5ae30800000000000000
+      internalID: 4514248149438039354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_3
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1703
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ecfb1b9ebdc2760800000000000000
+      internalID: 7434558881637846637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_4
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1703
+        width: 280
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a562e246a60ba40800000000000000
+      internalID: 5381918533211281946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_5
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1703
+        width: 281
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19dd35caf7745c40800000000000000
+      internalID: 5500152963860912410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_6
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1706
+        width: 280
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6c917198a1d6df0800000000000000
+      internalID: -185462833551915310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_7
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1706
+        width: 282
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17046bf3ff3917f20800000000000000
+      internalID: 3418676316645769329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_8
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1703
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b425058b003f1b40800000000000000
+      internalID: 5413098103157105849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1314
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593da6e1962b3d3f0800000000000000
+      internalID: -877161337855487083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1314
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a86a9470fa81d40800000000000000
+      internalID: 5555382586196789827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1314
+        width: 251
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf7e19675d945990800000000000000
+      internalID: -7398115289111560275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_12
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1417
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065904b770e6a08b0800000000000000
+      internalID: -5185211042552048288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_13
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1417
+        width: 280
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b743b972d08140800000000000000
+      internalID: 4720003829624976441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_14
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1417
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78dba02698be4300800000000000000
+      internalID: 238330785229953150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_15
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1421
+        width: 282
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcd8cc332108fc30800000000000000
+      internalID: 4393262687355198705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_16
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1421
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0a502b850a42ec0800000000000000
+      internalID: -3592570299930533652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_17
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1421
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dea3243d8573a60800000000000000
+      internalID: 7653683756111949125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 967
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c656531f984370800000000000000
+      internalID: 8307064418086602700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_19
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 967
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d87c9c9941eb00c0800000000000000
+      internalID: -4608342087407208232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 967
+        width: 251
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9055ccc6b3ded730800000000000000
+      internalID: 4025887898988794010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_21
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1133
+        width: 279
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898e34dccd5aceb0800000000000000
+      internalID: -4698840126892111480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_22
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1132
+        width: 279
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04419b7b5c0e001b0800000000000000
+      internalID: -5692302789200767936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_23
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1133
+        width: 279
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b903d70083cab0a10800000000000000
+      internalID: 1876783026256294043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_24
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1137
+        width: 282
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e559c2ca41cad040800000000000000
+      internalID: 4673260090190026214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_25
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1137
+        width: 280
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be3656b8fd96e90800000000000000
+      internalID: -7031843553367823468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_26
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 1141
+        width: 280
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699af78b220de0c00800000000000000
+      internalID: 868860625671924118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 619
+        width: 251
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0dce96320a6970800000000000000
+      internalID: 8748807659736337739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_28
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 619
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd2e4315099b0e0800000000000000
+      internalID: -2253611460068188865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_29
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 619
+        width: 251
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e22dff4d4fe850800000000000000
+      internalID: 6408425800716183286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 848
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3042b9f5c2e65250800000000000000
+      internalID: 5933178899032850494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_31
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 848
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b81913f57b5e90800000000000000
+      internalID: -7035900305877715054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_32
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 848
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7f3bd6d3e39ac0800000000000000
+      internalID: -3849482744530763789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_33
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 852
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff8592645fa0280800000000000000
+      internalID: -9076172417321599117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_34
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 852
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5d26fda4d68a940800000000000000
+      internalID: 5307612329198933467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_35
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 852
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e9bb20fd569840800000000000000
+      internalID: 5230471303344547068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_36
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 563
+        width: 279
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49b27b93d586d080800000000000000
+      internalID: -9162989247946114741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_37
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 562
+        width: 279
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb513ec4b426b510800000000000000
+      internalID: 1564478279529880566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_38
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 562
+        width: 279
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3814abf3fcd14f800800000000000000
+      internalID: 645173422585430403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_39
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 566
+        width: 280
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462391f72e3de5b40800000000000000
+      internalID: 5431011170403824228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_40
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 566
+        width: 282
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa23626cdb701a30800000000000000
+      internalID: 4183980240300878511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_41
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 570
+        width: 280
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e26ae385655ae0800000000000000
+      internalID: -1561230078566536909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 273
+        width: 250
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce6348085802fb0800000000000000
+      internalID: -4674589626190074759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_43
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 272
+        width: 250
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10414d616cf6880800000000000000
+      internalID: -8615449760786808329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_44
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 272
+        width: 251
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ed191a8db3f2430800000000000000
+      internalID: 3760290015487319610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_45
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 107
+        width: 322
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f931c009ddaa3de0800000000000000
+      internalID: -1352577590539240969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plates Decorative_46
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 127
+        width: 349
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ba5d0fca324c80800000000000000
+      internalID: -8340038898980046586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

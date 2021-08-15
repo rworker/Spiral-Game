@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 66be03f7d0f223a469af0ab255f79af4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8920627367034263038
+    second: Brick5_0
+  - first:
+      213: 3576708239376492949
+    second: Brick5_1
+  - first:
+      213: 5850271679407581858
+    second: Brick5_2
+  - first:
+      213: 5474560125397874487
+    second: Brick5_3
+  - first:
+      213: -3082508167629549859
+    second: Brick5_4
+  - first:
+      213: -5038120413969025223
+    second: Brick5_5
+  - first:
+      213: 2585796330551598513
+    second: Brick5_6
+  - first:
+      213: 3351144508498878893
+    second: Brick5_7
+  - first:
+      213: 3913980881164113298
+    second: Brick5_8
+  - first:
+      213: -4222677124051954553
+    second: Brick5_9
+  - first:
+      213: 32097285766432537
+    second: Brick5_10
+  - first:
+      213: -8320057400650862664
+    second: Brick5_11
+  - first:
+      213: 3422095764742383665
+    second: Brick5_12
+  - first:
+      213: -561782481884137648
+    second: Brick5_13
+  - first:
+      213: 7913909045270354707
+    second: Brick5_14
+  - first:
+      213: 1400289055632058395
+    second: Brick5_15
+  - first:
+      213: 8130350574638824829
+    second: Brick5_16
+  - first:
+      213: -106745756753553126
+    second: Brick5_17
+  - first:
+      213: -3838666774565805709
+    second: Brick5_18
+  - first:
+      213: -141563063608117368
+    second: Brick5_19
+  - first:
+      213: 4161091786988067110
+    second: Brick5_20
+  - first:
+      213: -8326239184142150305
+    second: Brick5_21
+  - first:
+      213: 8894048802629818880
+    second: Brick5_22
+  - first:
+      213: 7900091881139716712
+    second: Brick5_23
+  - first:
+      213: -4775055478149695870
+    second: Brick5_24
+  - first:
+      213: -8386654199836202949
+    second: Brick5_25
+  - first:
+      213: 6947160487138792346
+    second: Brick5_26
+  - first:
+      213: 7630983718840061327
+    second: Brick5_27
+  - first:
+      213: -5113240746319697004
+    second: Brick5_28
+  - first:
+      213: 7118353547127912622
+    second: Brick5_29
+  - first:
+      213: -9204203389492719960
+    second: Brick5_30
+  - first:
+      213: -8628692981081257715
+    second: Brick5_31
+  - first:
+      213: -61360607689819461
+    second: Brick5_32
+  - first:
+      213: -6382992561971871605
+    second: Brick5_33
+  - first:
+      213: 5784917520974471673
+    second: Brick5_34
+  - first:
+      213: -1363502320778959939
+    second: Brick5_35
+  - first:
+      213: 4896938974867614290
+    second: Brick5_36
+  - first:
+      213: -1407241086506320800
+    second: Brick5_37
+  - first:
+      213: -8227201776251545965
+    second: Brick5_38
+  - first:
+      213: -828916434041188608
+    second: Brick5_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brick5_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3361
+        width: 520
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef594b9a35f6ccb70800000000000000
+      internalID: 8920627367034263038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3361
+        width: 518
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599af39813503a130800000000000000
+      internalID: 3576708239376492949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_2
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3361
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaed9aa817503150800000000000000
+      internalID: 5850271679407581858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_3
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 3361
+        width: 519
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737bbd7bd6b89fb40800000000000000
+      internalID: 5474560125397874487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_4
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 3361
+        width: 518
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde4333472bb835d0800000000000000
+      internalID: -3082508167629549859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_5
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 3361
+        width: 519
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9377bb53d20051ab0800000000000000
+      internalID: -5038120413969025223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2753
+        width: 520
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd5900001892e320800000000000000
+      internalID: 2585796330551598513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_7
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2753
+        width: 518
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1a314ec28a18e20800000000000000
+      internalID: 3351144508498878893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_8
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2753
+        width: 521
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295157fcfd0415630800000000000000
+      internalID: 3913980881164113298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_9
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 2747
+        width: 518
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78417b347890665c0800000000000000
+      internalID: -4222677124051954553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_10
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 2747
+        width: 518
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917cc54bf48027000800000000000000
+      internalID: 32097285766432537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_11
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 2747
+        width: 516
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf685b20e7398c80800000000000000
+      internalID: -8320057400650862664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2130
+        width: 522
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a6dc87f9bd7f20800000000000000
+      internalID: 3422095764742383665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_13
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2129
+        width: 518
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05732462fc52438f0800000000000000
+      internalID: -561782481884137648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_14
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2129
+        width: 523
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1714d85ad3dd60800000000000000
+      internalID: 7913909045270354707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_15
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2158
+        width: 231
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e0df1a73de6310800000000000000
+      internalID: 1400289055632058395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_16
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 2116
+        width: 519
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7dbc65cec4d070800000000000000
+      internalID: 8130350574638824829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_17
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 2115
+        width: 518
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199c6fbc43c48ef0800000000000000
+      internalID: -106745756753553126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_18
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2114
+        width: 517
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37129ea18e05abac0800000000000000
+      internalID: -3838666774565805709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_19
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1748
+        width: 105
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877258c421190ef0800000000000000
+      internalID: -141563063608117368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_20
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1747
+        width: 517
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62918311fea2fb930800000000000000
+      internalID: 4161091786988067110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_21
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1748
+        width: 110
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d44a8391437c80800000000000000
+      internalID: -8326239184142150305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_22
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1561
+        width: 232
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1db763420e6b70800000000000000
+      internalID: 8894048802629818880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_23
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1393
+        width: 520
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c74c95b3c2ad60800000000000000
+      internalID: 7900091881139716712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_24
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 1393
+        width: 516
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ba1a87589bbdb0800000000000000
+      internalID: -4775055478149695870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_25
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1393
+        width: 502
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38a9bc807e9c9b80800000000000000
+      internalID: -8386654199836202949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 995
+        width: 268
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a939989c7a5496060800000000000000
+      internalID: 6947160487138792346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 995
+        width: 1029
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d4048f243b6e960800000000000000
+      internalID: 7630983718840061327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_28
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 995
+        width: 276
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49baf80e1ae1a09b0800000000000000
+      internalID: -5113240746319697004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_29
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1373
+        width: 232
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8733226d879c260800000000000000
+      internalID: 7118353547127912622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 387
+        width: 268
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae07d088c9144080800000000000000
+      internalID: -9204203389492719960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 387
+        width: 274
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ceb25379b04880800000000000000
+      internalID: -8628692981081257715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_32
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 387
+        width: 269
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba32773ad0062ff0800000000000000
+      internalID: -61360607689819461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_33
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 387
+        width: 276
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80c4bb551e0b67a0800000000000000
+      internalID: -6382992561971871605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_34
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 783
+        width: 519
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ed94e5d7284050800000000000000
+      internalID: 5784917520974471673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_35
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 783
+        width: 516
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ac870dddd31de0800000000000000
+      internalID: -1363502320778959939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_36
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 783
+        width: 507
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aefb37d0c65f340800000000000000
+      internalID: 4896938974867614290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_37
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 157
+        width: 519
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cb47d00b9787ce0800000000000000
+      internalID: -1407241086506320800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_38
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 156
+        width: 516
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3965017f29b13dd80800000000000000
+      internalID: -8227201776251545965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brick5_39
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 159
+        width: 517
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fcd7025e81f74f0800000000000000
+      internalID: -828916434041188608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

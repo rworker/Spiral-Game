@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: c1a74ab00b5ebf0428a5020c690f31b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8890568008235181273
+    second: Pillars2_0
+  - first:
+      213: 1408225572162200995
+    second: Pillars2_1
+  - first:
+      213: 7576390781025187823
+    second: Pillars2_2
+  - first:
+      213: 906570392023009339
+    second: Pillars2_3
+  - first:
+      213: 475826230265659634
+    second: Pillars2_4
+  - first:
+      213: -8929704726823985301
+    second: Pillars2_5
+  - first:
+      213: -7409941790870911894
+    second: Pillars2_6
+  - first:
+      213: 4357606896157483135
+    second: Pillars2_7
+  - first:
+      213: -7584313313189712792
+    second: Pillars2_8
+  - first:
+      213: -9188568293961321019
+    second: Pillars2_9
+  - first:
+      213: -2637636677875973605
+    second: Pillars2_10
+  - first:
+      213: 1712758301464672827
+    second: Pillars2_11
+  - first:
+      213: 5202087362640343838
+    second: Pillars2_12
+  - first:
+      213: 6058397590604933926
+    second: Pillars2_13
+  - first:
+      213: 1524551435878153483
+    second: Pillars2_14
+  - first:
+      213: 2516454934394039678
+    second: Pillars2_15
+  - first:
+      213: -2327597068725854060
+    second: Pillars2_16
+  - first:
+      213: 4492450553710465753
+    second: Pillars2_17
+  - first:
+      213: 4338630755433762558
+    second: Pillars2_18
+  - first:
+      213: -7699972679299358874
+    second: Pillars2_19
+  - first:
+      213: -8980107025602420835
+    second: Pillars2_20
+  - first:
+      213: -4648866205057152853
+    second: Pillars2_21
+  - first:
+      213: 2502648295329076173
+    second: Pillars2_22
+  - first:
+      213: -5609878476376789339
+    second: Pillars2_23
+  - first:
+      213: -4430011094894282487
+    second: Pillars2_24
+  - first:
+      213: 5574174280406468814
+    second: Pillars2_25
+  - first:
+      213: 7955427027835342375
+    second: Pillars2_26
+  - first:
+      213: -1467716615480070633
+    second: Pillars2_27
+  - first:
+      213: 7164460561081886561
+    second: Pillars2_28
+  - first:
+      213: 4285913285369210743
+    second: Pillars2_29
+  - first:
+      213: -6806081844396599020
+    second: Pillars2_30
+  - first:
+      213: 8403920927697143303
+    second: Pillars2_31
+  - first:
+      213: 9075303114063190235
+    second: Pillars2_32
+  - first:
+      213: 1710170621675026259
+    second: Pillars2_33
+  - first:
+      213: -3333108735483399549
+    second: Pillars2_34
+  - first:
+      213: 4947426694257416458
+    second: Pillars2_35
+  - first:
+      213: -7985255470585877958
+    second: Pillars2_36
+  - first:
+      213: 2476251453698374528
+    second: Pillars2_37
+  - first:
+      213: -5736112449020019575
+    second: Pillars2_38
+  - first:
+      213: 6729882471393581712
+    second: Pillars2_39
+  - first:
+      213: 2296549613953109244
+    second: Pillars2_40
+  - first:
+      213: -1076397583855648887
+    second: Pillars2_41
+  - first:
+      213: 7013751722824660858
+    second: Pillars2_42
+  - first:
+      213: -3189710606558804538
+    second: Pillars2_43
+  - first:
+      213: -1085515795620764493
+    second: Pillars2_44
+  - first:
+      213: 6780119058528123310
+    second: Pillars2_45
+  - first:
+      213: 1826514035553368531
+    second: Pillars2_46
+  - first:
+      213: -6284839618283322319
+    second: Pillars2_47
+  - first:
+      213: 1217439713520678635
+    second: Pillars2_48
+  - first:
+      213: -6188297620300094385
+    second: Pillars2_49
+  - first:
+      213: -8233523283162267823
+    second: Pillars2_50
+  - first:
+      213: -8310753246018607723
+    second: Pillars2_51
+  - first:
+      213: -649921039098274345
+    second: Pillars2_52
+  - first:
+      213: -655842255946625467
+    second: Pillars2_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillars2_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3444
+        width: 215
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b90b1308b5e9480800000000000000
+      internalID: -8890568008235181273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3444
+        width: 218
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5695062b50b8310800000000000000
+      internalID: 1408225572162200995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3444
+        width: 217
+        height: 1503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7fc8e164fb42960800000000000000
+      internalID: 7576390781025187823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_3
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 4451
+        width: 217
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380b64e7f8c49c00800000000000000
+      internalID: 906570392023009339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_4
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3439
+        width: 218
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04cc57f697a9600800000000000000
+      internalID: 475826230265659634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_5
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 3444
+        width: 217
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f9780dcd0531480800000000000000
+      internalID: -8929704726823985301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_6
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 3448
+        width: 217
+        height: 1502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6441d463399a2990800000000000000
+      internalID: -7409941790870911894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_7
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 4457
+        width: 217
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70624c6264597c30800000000000000
+      internalID: 4357606896157483135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_8
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 3447
+        width: 214
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86caf0e993b1fb690800000000000000
+      internalID: -7584313313189712792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_9
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 3444
+        width: 217
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b40cd1d5ab7080800000000000000
+      internalID: -9188568293961321019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_10
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 3452
+        width: 217
+        height: 1503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1249a09a6b356bd0800000000000000
+      internalID: -2637636677875973605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_11
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 4462
+        width: 215
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a37e0c990f4c710800000000000000
+      internalID: 1712758301464672827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_12
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 3413
+        width: 286
+        height: 1579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f9bcf4e6813840800000000000000
+      internalID: 5202087362640343838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_13
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 4425
+        width: 289
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be6188280c31450800000000000000
+      internalID: 6058397590604933926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_14
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3439
+        width: 217
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d3459147b482510800000000000000
+      internalID: 1524551435878153483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_15
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3447
+        width: 217
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de5d91e6e3ce220800000000000000
+      internalID: 2516454934394039678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_16
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 3452
+        width: 217
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ea525cc6b2bfd0800000000000000
+      internalID: -2327597068725854060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_17
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 3415
+        width: 289
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25be00af3685e30800000000000000
+      internalID: 4492450553710465753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1823
+        width: 217
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efec63d5fa9e53c30800000000000000
+      internalID: 4338630755433762558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1821
+        width: 218
+        height: 1499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f1626f4a3342590800000000000000
+      internalID: -7699972679299358874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1821
+        width: 217
+        height: 1499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5af52d30406380800000000000000
+      internalID: -8980107025602420835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_21
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2828
+        width: 217
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8004731d8eb7fb0800000000000000
+      internalID: -4648866205057152853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_22
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1823
+        width: 218
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc393d07d513bb220800000000000000
+      internalID: 2502648295329076173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_23
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1821
+        width: 217
+        height: 1499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea3768f35b522b0800000000000000
+      internalID: -5609878476376789339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_24
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1821
+        width: 217
+        height: 1499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90979c161607582c0800000000000000
+      internalID: -4430011094894282487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_25
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2828
+        width: 217
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80fbb89f17b5d40800000000000000
+      internalID: 5574174280406468814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_26
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 1823
+        width: 214
+        height: 1497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ecaae6bba576e60800000000000000
+      internalID: 7955427027835342375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_27
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 1821
+        width: 217
+        height: 1499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e2f57b38f91abe0800000000000000
+      internalID: -1467716615480070633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_28
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 1821
+        width: 217
+        height: 1499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167e49edbe64d6360800000000000000
+      internalID: 7164460561081886561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_29
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 2828
+        width: 217
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772f80ec6f9a7b30800000000000000
+      internalID: 4285913285369210743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_30
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 1786
+        width: 292
+        height: 1569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41951886f90fb81a0800000000000000
+      internalID: -6806081844396599020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_31
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 2793
+        width: 289
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060cdfce89b0a470800000000000000
+      internalID: 8403920927697143303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_32
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1823
+        width: 217
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd89bb66914f1fd70800000000000000
+      internalID: 9075303114063190235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_33
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1823
+        width: 217
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357bf3a9e1fbbb710800000000000000
+      internalID: 1710170621675026259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_34
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 1823
+        width: 217
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b2cfb34b6eb1d0800000000000000
+      internalID: -3333108735483399549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_35
+      rect:
+        serializedVersion: 2
+        x: 5017
+        y: 1789
+        width: 289
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a099f77ad5ac8a440800000000000000
+      internalID: 4947426694257416458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 169
+        width: 207
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aebfa057cae2190800000000000000
+      internalID: -7985255470585877958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 169
+        width: 206
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b7c30d3996d5220800000000000000
+      internalID: 2476251453698374528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_38
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 169
+        width: 207
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c377c6e1c3560b0800000000000000
+      internalID: -5736112449020019575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1001
+        width: 208
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ada878378556d50800000000000000
+      internalID: 6729882471393581712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_40
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 169
+        width: 206
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4cbcc4bbfedf10800000000000000
+      internalID: 2296549613953109244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_41
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 169
+        width: 208
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff139b91edf01f0800000000000000
+      internalID: -1076397583855648887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_42
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 169
+        width: 206
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777fbd080ad55160800000000000000
+      internalID: 7013751722824660858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_43
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1001
+        width: 208
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c544c76a1fdbb3d0800000000000000
+      internalID: -3189710606558804538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_44
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 169
+        width: 207
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e2fb92297fe0f0800000000000000
+      internalID: -1085515795620764493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_45
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 169
+        width: 206
+        height: 1506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9bc627c52d71e50800000000000000
+      internalID: 6780119058528123310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_46
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 169
+        width: 207
+        height: 1508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d97c6a86d4195910800000000000000
+      internalID: 1826514035553368531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_47
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 1001
+        width: 207
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134cbe96aa3c7c8a0800000000000000
+      internalID: -6284839618283322319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_48
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 132
+        width: 280
+        height: 1580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be67adb18f635e010800000000000000
+      internalID: 1217439713520678635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_49
+      rect:
+        serializedVersion: 2
+        x: 4962
+        y: 969
+        width: 280
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f442e91f910ce1aa0800000000000000
+      internalID: -6188297620300094385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_50
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 169
+        width: 208
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f74317236acbd80800000000000000
+      internalID: -8233523283162267823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_51
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 169
+        width: 208
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595e22b74f54aac80800000000000000
+      internalID: -8310753246018607723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_52
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 169
+        width: 207
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9e7422440bf6f0800000000000000
+      internalID: -649921039098274345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars2_53
+      rect:
+        serializedVersion: 2
+        x: 4962
+        y: 132
+        width: 280
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e4c9961faf5e6f0800000000000000
+      internalID: -655842255946625467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

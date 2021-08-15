@@ -1,0 +1,1464 @@
+fileFormatVersion: 2
+guid: 31a52e4444257ab40874c893046c979b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8770770872281172433
+    second: Pillars Tops_0
+  - first:
+      213: 1436426426667723603
+    second: Pillars Tops_1
+  - first:
+      213: -4043892101825769250
+    second: Pillars Tops_2
+  - first:
+      213: 4395309207389884057
+    second: Pillars Tops_3
+  - first:
+      213: -9160983986168464144
+    second: Pillars Tops_4
+  - first:
+      213: 6122570114633665268
+    second: Pillars Tops_5
+  - first:
+      213: 105863060063678922
+    second: Pillars Tops_6
+  - first:
+      213: 2828478277787868380
+    second: Pillars Tops_7
+  - first:
+      213: 1667396011346259349
+    second: Pillars Tops_8
+  - first:
+      213: -7877709704286190071
+    second: Pillars Tops_9
+  - first:
+      213: -3068458657257797095
+    second: Pillars Tops_10
+  - first:
+      213: 5160947978052358420
+    second: Pillars Tops_11
+  - first:
+      213: 3956681035050589421
+    second: Pillars Tops_12
+  - first:
+      213: 431897900383105469
+    second: Pillars Tops_13
+  - first:
+      213: -7151988490057174369
+    second: Pillars Tops_14
+  - first:
+      213: -1103547264902967684
+    second: Pillars Tops_15
+  - first:
+      213: -6242764236740666351
+    second: Pillars Tops_16
+  - first:
+      213: 8388989166157322651
+    second: Pillars Tops_17
+  - first:
+      213: -3196635293498308028
+    second: Pillars Tops_18
+  - first:
+      213: -7892552326143867923
+    second: Pillars Tops_19
+  - first:
+      213: 633686840691807640
+    second: Pillars Tops_20
+  - first:
+      213: 3833813929958540521
+    second: Pillars Tops_21
+  - first:
+      213: 3212946984997532779
+    second: Pillars Tops_22
+  - first:
+      213: -7491786382170054812
+    second: Pillars Tops_23
+  - first:
+      213: -8226141814209184753
+    second: Pillars Tops_24
+  - first:
+      213: 345832993282506413
+    second: Pillars Tops_25
+  - first:
+      213: 7034687125353317023
+    second: Pillars Tops_26
+  - first:
+      213: -5828423002690614760
+    second: Pillars Tops_27
+  - first:
+      213: -8435551273732222269
+    second: Pillars Tops_28
+  - first:
+      213: 1450066568193900672
+    second: Pillars Tops_29
+  - first:
+      213: -4535193670510509781
+    second: Pillars Tops_30
+  - first:
+      213: -5770840201347105289
+    second: Pillars Tops_31
+  - first:
+      213: 5768665014463815119
+    second: Pillars Tops_32
+  - first:
+      213: 1546749680999585759
+    second: Pillars Tops_33
+  - first:
+      213: 8438984769563510409
+    second: Pillars Tops_34
+  - first:
+      213: -172816261700475489
+    second: Pillars Tops_35
+  - first:
+      213: 608790656873558581
+    second: Pillars Tops_36
+  - first:
+      213: -871950392490974522
+    second: Pillars Tops_37
+  - first:
+      213: -3002097600036349502
+    second: Pillars Tops_38
+  - first:
+      213: 5966774714728934055
+    second: Pillars Tops_39
+  - first:
+      213: 1070482700140648027
+    second: Pillars Tops_40
+  - first:
+      213: 6213812914548315967
+    second: Pillars Tops_41
+  - first:
+      213: -7069510881134155694
+    second: Pillars Tops_42
+  - first:
+      213: -908641145522688098
+    second: Pillars Tops_43
+  - first:
+      213: -7735926938819387612
+    second: Pillars Tops_44
+  - first:
+      213: 7646009308981609479
+    second: Pillars Tops_45
+  - first:
+      213: 2599302749283139498
+    second: Pillars Tops_46
+  - first:
+      213: 1603558546926514013
+    second: Pillars Tops_47
+  - first:
+      213: 9124278646968716910
+    second: Pillars Tops_48
+  - first:
+      213: 7690532550363732295
+    second: Pillars Tops_49
+  - first:
+      213: -2176687010046524662
+    second: Pillars Tops_50
+  - first:
+      213: 1704691764275476505
+    second: Pillars Tops_51
+  - first:
+      213: -6194967956173238140
+    second: Pillars Tops_52
+  - first:
+      213: -7864590410416765734
+    second: Pillars Tops_53
+  - first:
+      213: -7386171914842323590
+    second: Pillars Tops_54
+  - first:
+      213: 2885067972644312618
+    second: Pillars Tops_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pillars Tops_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1938
+        width: 291
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d989a883a908b970800000000000000
+      internalID: 8770770872281172433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1938
+        width: 291
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b638b79363fe310800000000000000
+      internalID: 1436426426667723603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1938
+        width: 274
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0daa01f8531e7c0800000000000000
+      internalID: -4043892101825769250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_3
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1940
+        width: 288
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e4a70df664ffc30800000000000000
+      internalID: 4395309207389884057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_4
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1929
+        width: 323
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcf26ff995add080800000000000000
+      internalID: -9160983986168464144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_5
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1929
+        width: 306
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa892b941db7f450800000000000000
+      internalID: 6122570114633665268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_6
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 1931
+        width: 318
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac17ee964e9187100800000000000000
+      internalID: 105863060063678922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1698
+        width: 271
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc547af106c04720800000000000000
+      internalID: 2828478277787868380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1698
+        width: 270
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d623c86d7c32710800000000000000
+      internalID: 1667396011346259349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1697
+        width: 269
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906cf5803c0cca290800000000000000
+      internalID: -7877709704286190071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_10
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1700
+        width: 264
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4d2ecb15aa65d0800000000000000
+      internalID: -3068458657257797095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_11
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 1686
+        width: 299
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411d41897de5f9740800000000000000
+      internalID: 5160947978052358420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_12
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1684
+        width: 297
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec17bf1074f8e630800000000000000
+      internalID: 3956681035050589421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_13
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 1688
+        width: 289
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db172932ad86ef500800000000000000
+      internalID: 431897900383105469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1458
+        width: 321
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b5747c580fbc90800000000000000
+      internalID: -7151988490057174369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1457
+        width: 320
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eca920c996fa0f0800000000000000
+      internalID: -1103547264902967684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_16
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1458
+        width: 315
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c5f84900f3d59a0800000000000000
+      internalID: -6242764236740666351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_17
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1458
+        width: 301
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b995869233dab6470800000000000000
+      internalID: 8388989166157322651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_18
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1442
+        width: 349
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8e86132543a3d0800000000000000
+      internalID: -3196635293498308028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_19
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1442
+        width: 340
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de30305d975087290800000000000000
+      internalID: -7892552326143867923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_20
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1444
+        width: 334
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895564ef2de4bc800800000000000000
+      internalID: 633686840691807640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1187
+        width: 341
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48f16f471743530800000000000000
+      internalID: 3833813929958540521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1187
+        width: 341
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64b0fa824ea69c20800000000000000
+      internalID: 3212946984997532779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_23
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1190
+        width: 319
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f15a58af3d70890800000000000000
+      internalID: -7491786382170054812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_24
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1188
+        width: 319
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cf21c9a9fd6dd80800000000000000
+      internalID: -8226141814209184753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_25
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1174
+        width: 367
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb63c6645acc400800000000000000
+      internalID: 345832993282506413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_26
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1176
+        width: 345
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c2bc4baa30a160800000000000000
+      internalID: 7034687125353317023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_27
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1176
+        width: 348
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a09ebc8284d1fa0800000000000000
+      internalID: -5828423002690614760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 957
+        width: 303
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d89c5fc6eeea80800000000000000
+      internalID: -8435551273732222269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 957
+        width: 303
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0800ed96cdbaf1410800000000000000
+      internalID: 1450066568193900672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_30
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 959
+        width: 303
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b210f999261cf01c0800000000000000
+      internalID: -4535193670510509781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_31
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 960
+        width: 283
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd792f796bd9efa0800000000000000
+      internalID: -5770840201347105289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_32
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 946
+        width: 335
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd657544a6e0050800000000000000
+      internalID: 5768665014463815119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_33
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 948
+        width: 333
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7dd6cc3a8277510800000000000000
+      internalID: 1546749680999585759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 948
+        width: 310
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c3ceafeb4d1570800000000000000
+      internalID: 8438984769563510409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 683
+        width: 335
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95aeed86880a9df0800000000000000
+      internalID: -172816261700475489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_36
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 683
+        width: 336
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532768d70ebd27800800000000000000
+      internalID: 608790656873558581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_37
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 683
+        width: 298
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c220d1ecb536e3f0800000000000000
+      internalID: -871950392490974522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_38
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 683
+        width: 268
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d7c873286656d0800000000000000
+      internalID: -3002097600036349502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_39
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 671
+        width: 367
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa633e5dfd3ec250800000000000000
+      internalID: 5966774714728934055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_40
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 673
+        width: 329
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b569518185e1bde00800000000000000
+      internalID: 1070482700140648027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_41
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 671
+        width: 296
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3713607ce5eb3650800000000000000
+      internalID: 6213812914548315967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_42
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 387
+        width: 393
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2586d3a3f4d04ed90800000000000000
+      internalID: -7069510881134155694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 387
+        width: 394
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fe0dc31bbd363f0800000000000000
+      internalID: -908641145522688098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_44
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 387
+        width: 393
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f9b439f6774a490800000000000000
+      internalID: -7735926938819387612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_45
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 387
+        width: 342
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704cd2bc4f41c1a60800000000000000
+      internalID: 7646009308981609479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_46
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 378
+        width: 423
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb7ba2414921420800000000000000
+      internalID: 2599302749283139498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_47
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 378
+        width: 423
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa81e900cf04610800000000000000
+      internalID: 1603558546926514013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_48
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 378
+        width: 370
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e80404613ff9e70800000000000000
+      internalID: 9124278646968716910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 118
+        width: 318
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749520ebb924aba60800000000000000
+      internalID: 7690532550363732295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_50
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 118
+        width: 318
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0348fa62badac1e0800000000000000
+      internalID: -2176687010046524662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_51
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 118
+        width: 318
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9187c25b02848a710800000000000000
+      internalID: 1704691764275476505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_52
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 118
+        width: 296
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480dd59577d070aa0800000000000000
+      internalID: -6194967956173238140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_53
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 114
+        width: 350
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad44a2ba0bc5bd290800000000000000
+      internalID: -7864590410416765734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_54
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 113
+        width: 346
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a754bdde6cb0f7990800000000000000
+      internalID: -7386171914842323590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pillars Tops_55
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 114
+        width: 323
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26125e0902d90820800000000000000
+      internalID: 2885067972644312618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
