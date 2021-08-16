@@ -2916,7 +2916,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "*Chuckles* now wouldn\u2019t <i>that</i> be convenient. Apologies friend,
     but this is no mere dream. This is very much your reality and unless you do something
-    about it may become your fate."
+    about it, it may become your fate."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b933a11f9a183db44a8ce5eaa8d70068, type: 2}
   m_sharedMaterial: {fileID: 618947550141233691, guid: b933a11f9a183db44a8ce5eaa8d70068, type: 2}

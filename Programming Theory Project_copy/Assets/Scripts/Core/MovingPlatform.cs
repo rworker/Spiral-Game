@@ -59,18 +59,20 @@ public class MovingPlatform : MonoBehaviour
 
     private void OnTriggerEnter(Collider other) 
     {
-        if (!alreadyOn)
+        print("on");
+        if (other.gameObject.CompareTag("Player"))
         {
             other.transform.SetParent(gameObject.transform, true); 
-            alreadyOn = true;
+            //alreadyOn = true;
 
         }
     }
 
     private void OnTriggerExit(Collider other)
     {
+        print("off");
         other.gameObject.transform.parent = null; //releases player/enemy as child when leaving the platform
-        alreadyOn = false;
+        //alreadyOn = false;
     }
 
 

@@ -39,9 +39,8 @@ public class Timer : MonoBehaviour
 
         if (currentTime <= 0f && !alreadyTriggered)
         {
-            
-            if (OnOutOfTime != null) OnOutOfTime(this, EventArgs.Empty); //if OnOutOfTime has subscribers, trigger
             alreadyTriggered = true;
+            if (OnOutOfTime != null) OnOutOfTime(this, EventArgs.Empty); //if OnOutOfTime has subscribers, trigger
         }
     }
 

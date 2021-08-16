@@ -1497,7 +1497,7 @@ MonoBehaviour:
     eye on your hearts, as well as the countdown timer. If either run out prior to
     your escape you will be forced to backtrack and begin your journey anew.\n\nShould
     this come to pass, do not lose hope. The path to liberation is rarely a straight
-    one and it is not one you must walk alone. Keep fighting and may you find your
+    one and it is not one you must walk alone. Keep fighting, and may you find your
     salvation.\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b933a11f9a183db44a8ce5eaa8d70068, type: 2}

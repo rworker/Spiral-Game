@@ -3552,8 +3552,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: As I'm sure you need reminding of, the real world, not just this one you've
-    created, can often be a cruel, disheartening place.
+  m_text: As I'm sure you need no reminding of, the real world, not just this one
+    you've created, can often be a cruel, disheartening place.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b933a11f9a183db44a8ce5eaa8d70068, type: 2}
   m_sharedMaterial: {fileID: 618947550141233691, guid: b933a11f9a183db44a8ce5eaa8d70068, type: 2}
